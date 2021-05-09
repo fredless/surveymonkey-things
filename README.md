@@ -5,4 +5,4 @@ Scriptlets used to help automate survey creation and result reporting. Makes use
 *Note that SurveyMonkey restricts API calls to 500 per day, so some of these limits may apply with your use-case.*
 
 ## [survey_bulk_adder.py](survey_bulk_adder.py)
-Using a source survey as a template, imports additional surveys in bulk from CSV and sets 
+Using a source survey as a template, imports additional surveys in bulk from CSV and sets titles, description, creates custom collector weblink URLs and sets web link metadata.
